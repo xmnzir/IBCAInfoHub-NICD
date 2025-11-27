@@ -213,17 +213,12 @@ Email: ibcaenquiries@ibca.org.uk (general enquiries only; do not include persona
 **Changes to registration information:**  
 Phone: 0141 471 8886 (Mon–Fri 9am–4pm, excluding bank holidays)
 
-**Request, delete or change information:**  
-Email: ibca.datagov@ibca.org.uk
-
 **Concerns about fraud:**  
 Email: fraud@ibca.org.uk  
 Report fraud: Action Fraud website or call 0300 123 2040  
 In Scotland, call 101 (police)
 
-**Community updates:**  
-Sign up for newsletters or view previous updates on GOV.UK
-
 **Media enquiries:**  
 Email: ibca-media@ibca.org.uk
 """)
+
