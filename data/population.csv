@@ -1,0 +1,7 @@
+Group,Transmission,Virus,Estimate,Low,High,Confidence,Notes
+Bleeding disorders,Blood product,HIV,1250,,,"Moderate/High","Includes ~380 children"
+Bleeding disorders,Blood product,HCV (no HIV),,2400,5000,"Low/Moderate","Range estimate from report"
+Transfusion recipients,Transfusion,HCV (ever infected),26800,,,"Moderate","Central population estimate"
+Transfusion recipients,Transfusion,Chronic HCV,22000,21300,38800,"Moderate","Survived beyond 6 months"
+Transfusion recipients,Transfusion,HIV,,79,100,"Moderate","85% estimated fatality"
+All exposure routes,Mixed,vCJD,5,5,5,"Confirmed","All known cases died"
