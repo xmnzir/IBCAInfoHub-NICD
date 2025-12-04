@@ -1,6 +1,7 @@
 # IBCA Information Hub & Semantic FAQ Chatbot
 This project delivers a visually interactive information hub for the Infected Blood Compensation Authority (IBCA). Developed collaboratively with Newcastle University colleagues during the National Innovation Centre for Data Spring Bootcamp, it consolidates publicly available data and resources to support understanding of the Infected Blood Inquiry (IBI) and its impact.
 
+For Live Demonstration of the project Visit : https://ibcainfo.streamlit.app/
 The platform includes:
 
 Overview: Background on IBCA, its mission, and the project’s genesis from a broad, exploratory problem statement.
